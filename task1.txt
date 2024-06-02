@@ -1,0 +1,28 @@
+--2024-06-02 19:32:02--  https://sourceforge.net/projects/boost/files/boost/1.84.0/boost_1_84_0.tar.gz
+Распознаётся sourceforge.net (sourceforge.net)… 104.18.12.149, 104.18.13.149, 2606:4700::6812:c95, ...
+Подключение к sourceforge.net (sourceforge.net)|104.18.12.149|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 301 Moved Permanently
+Адрес: https://sourceforge.net/projects/boost/files/boost/1.84.0/boost_1_84_0.tar.gz/ [переход]
+--2024-06-02 19:32:03--  https://sourceforge.net/projects/boost/files/boost/1.84.0/boost_1_84_0.tar.gz/
+Повторное использование соединения с sourceforge.net:443.
+HTTP-запрос отправлен. Ожидание ответа… 301 Moved Permanently
+Адрес: https://sourceforge.net/projects/boost/files/boost/1.84.0/boost_1_84_0.tar.gz/download [переход]
+--2024-06-02 19:32:03--  https://sourceforge.net/projects/boost/files/boost/1.84.0/boost_1_84_0.tar.gz/download
+Повторное использование соединения с sourceforge.net:443.
+HTTP-запрос отправлен. Ожидание ответа… 302 Found
+Адрес: https://downloads.sourceforge.net/project/boost/boost/1.84.0/boost_1_84_0.tar.gz?ts=gAAAAABmXJ6EYqtFa1_zyuO_99Hm38NGXFYhukgIHoqDDwkJufzz8XAgXIOKVkphZxtBoBxASogSRPVp-N1-AKnGa95trk-DdQ%3D%3D&use_mirror=unlimited&r= [переход]
+--2024-06-02 19:32:04--  https://downloads.sourceforge.net/project/boost/boost/1.84.0/boost_1_84_0.tar.gz?ts=gAAAAABmXJ6EYqtFa1_zyuO_99Hm38NGXFYhukgIHoqDDwkJufzz8XAgXIOKVkphZxtBoBxASogSRPVp-N1-AKnGa95trk-DdQ%3D%3D&use_mirror=unlimited&r=
+Распознаётся downloads.sourceforge.net (downloads.sourceforge.net)… 204.68.111.105
+Подключение к downloads.sourceforge.net (downloads.sourceforge.net)|204.68.111.105|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 302 Found
+Адрес: https://unlimited.dl.sourceforge.net/project/boost/boost/1.84.0/boost_1_84_0.tar.gz?viasf=1 [переход]
+--2024-06-02 19:32:05--  https://unlimited.dl.sourceforge.net/project/boost/boost/1.84.0/boost_1_84_0.tar.gz?viasf=1
+Распознаётся unlimited.dl.sourceforge.net (unlimited.dl.sourceforge.net)… 185.119.90.247
+Подключение к unlimited.dl.sourceforge.net (unlimited.dl.sourceforge.net)|185.119.90.247|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 145151722 (138M) [application/x-gzip]
+Сохранение в: ‘boost_1_84_0.tar.gz’
+
+boost_1_84_0.tar.gz 100%[===================>] 138,43M  2,80MB/s    за 88s     
+
+2024-06-02 19:33:34 (1,56 MB/s) - ‘boost_1_84_0.tar.gz’ сохранён [145151722/145151722]
