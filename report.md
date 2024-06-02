@@ -82,7 +82,7 @@
    ```bash
    ./b2
    ```
-   [Boost install](https://raw.githubusercontent.com/Yukkitsune/lab01/master/task_8.txt)
+   [Boost install](https://github.com/lukychs/lab01/blob/main/task8.txt)
 9. ```bash
    cd boost_output &&  mv ./lib ~/boost-libs && cd ~/boost-libs
    ```
