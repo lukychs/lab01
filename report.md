@@ -75,6 +75,8 @@
    [Boost::asio](https://github.com/Yukkitsune/lab01/blob/master/task_7.txt)
 8. ```bash
    cd boost_1_84_0
+   ```
+   ```bash
    ./bootstrap.sh
    ```
    ```bash
