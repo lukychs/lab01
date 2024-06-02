@@ -92,7 +92,7 @@
 10. ```bash
     ls -lh
     ```
-    [Hard disk space](https://github.com/Yukkitsune/lab01/blob/master/task_10.txt)
+    [Hard disk space](https://github.com/lukychs/lab01/blob/main/task10.txt)
 11. ```bash
     ls -lS | head -n 11
     ```
