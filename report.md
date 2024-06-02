@@ -70,14 +70,15 @@
    boost/proto/detail/any.hpp
    ```
 7. ```bash
-   grep -ril "boost::asio"
+   grep -rl "boost::asio"
    ```
    [Boost::asio](https://github.com/Yukkitsune/lab01/blob/master/task_7.txt)
 8. ```bash
-   ./bootstrap.sh --prefix=boost_output --with-python=python3
+   cd boost_1_84_0
+   ./bootstrap.sh
    ```
    ```bash
-   ./b2 install -j 12
+   ./b2
    ```
    [Boost install](https://raw.githubusercontent.com/Yukkitsune/lab01/master/task_8.txt)
 9. ```bash
