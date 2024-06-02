@@ -84,7 +84,10 @@
    ```
    [Boost install](https://github.com/lukychs/lab01/blob/main/task8.txt)
 9. ```bash
-   cd boost_output &&  mv ./lib ~/boost-libs && cd ~/boost-libs
+   mkdir -p ~/boost-libs
+   ```
+   ```bash
+   find boost_1_84_0 -name "*.a" -exec cp {} boost-libs \;
    ```
 10. ```bash
     ls -lh
