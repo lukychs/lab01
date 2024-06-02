@@ -96,4 +96,4 @@
 11. ```bash
     ls -lS | head -n 11
     ```
-    [Top 10 heaviest files](https://github.com/Yukkitsune/lab01/blob/master/task_11.txt)
+    [Top 10 heaviest files](https://github.com/lukychs/lab01/blob/main/task11.txt)
