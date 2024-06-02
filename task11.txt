@@ -1,0 +1,11 @@
+итого 31500
+-rw-rw-r-- 1 stanislav stanislav 4584846 июн  2 21:24 libboost_wave.a
+-rw-rw-r-- 1 stanislav stanislav 3233662 июн  2 21:24 libboost_log.a
+-rw-rw-r-- 1 stanislav stanislav 2882466 июн  2 21:24 libboost_log_setup.a
+-rw-rw-r-- 1 stanislav stanislav 2754046 июн  2 21:24 libboost_locale.a
+-rw-rw-r-- 1 stanislav stanislav 2410872 июн  2 21:24 libboost_url.a
+-rw-rw-r-- 1 stanislav stanislav 2327448 июн  2 21:24 libboost_test_exec_monitor.a
+-rw-rw-r-- 1 stanislav stanislav 2310082 июн  2 21:24 libboost_unit_test_framework.a
+-rw-rw-r-- 1 stanislav stanislav 1210174 июн  2 21:24 libboost_serialization.a
+-rw-rw-r-- 1 stanislav stanislav 1197234 июн  2 21:24 libboost_program_options.a
+-rw-rw-r-- 1 stanislav stanislav 1089598 июн  2 21:24 libboost_math_tr1.a
